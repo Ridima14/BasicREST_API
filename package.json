@@ -2,7 +2,7 @@
   "name": "crud_demo",
   "version": "1.0.0",
   "description": "CRUD Demo",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
