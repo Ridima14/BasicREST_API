@@ -19,3 +19,4 @@ This is a basic REST API for register page.
         Type npm install
         Type node app.js 
         Access port 3000 by typing in browser node app.js
+![](https://github.com/Ridima14/BasicREST_API/blob/master/Capture.JPG)
